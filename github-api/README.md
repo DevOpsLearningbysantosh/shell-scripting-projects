@@ -2,8 +2,8 @@
 - click settings
 - click at personal access tokens
 - click at tokens(classic)
-- export username="<user-name>"
-- export token="<token-id>"
+- export username=<"orgnization_name">
+- export token=<"token-id">
 - click at generate new token
 - Type name of the token
 - clone the respository https://github.com/DevOpsLearningbysantosh/shell-scripting-projects.git
