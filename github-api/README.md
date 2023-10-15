@@ -1,1 +1,13 @@
-
+# Create Token 
+- click settings
+- click at personal access tokens
+- click at tokens(classic)
+- export username="<user-name>"
+- export token="<token-id>"
+- click at generate new token
+- Type name of the token
+- clone the respository https://github.com/DevOpsLearningbysantosh/shell-scripting-projects.git
+- export username="DevOpsLearningbysantosh"
+- move to /shell-scripting-projects/github-api
+- run sudo apt install jq -y 
+- run following command ./list-users.sh DevOpsLearningbysantosh shell-scripting-projects
