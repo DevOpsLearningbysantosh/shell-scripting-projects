@@ -1,4 +1,4 @@
-# Create Token 
+# Script for creating Token and for api calling to list userlist who accessed the repository for Collaborating   
 - click settings
 - click at personal access tokens
 - click at tokens(classic)
@@ -10,4 +10,4 @@
 - export username="DevOpsLearningbysantosh"
 - move to /shell-scripting-projects/github-api
 - run sudo apt install jq -y 
-- run following command ./list-users.sh DevOpsLearningbysantosh shell-scripting-projects
+- run following command ./list-users.sh <"organization_name"> <"repository_name">
