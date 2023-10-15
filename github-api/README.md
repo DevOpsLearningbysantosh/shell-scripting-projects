@@ -10,4 +10,4 @@
 - export username="DevOpsLearningbysantosh"
 - move to /shell-scripting-projects/github-api
 - run sudo apt install jq -y 
-- run following command ./list-users.sh <"organization_name"> <"repository_name">
+- run following command ./list-users.sh <"repo_owner"> <"repository_name">
